@@ -2,7 +2,7 @@
  * @Author       : yuanrunwei
  * @Date         : 2020-05-17 16:38:29
  * @LastEditors  : yuanrunwei
- * @LastEditTime : 2020-05-17 17:17:32
+ * @LastEditTime : 2020-05-17 17:18:36
  * @FilePath     : \ambre-miniprogram\README.md
 --> 
 #### 安装依赖
@@ -75,7 +75,9 @@
 ##### 使用方法
 ```
 ├── utils
+
     └── util.js
+
 // 在上述路径中配置方法
 wx.environment
 ```
