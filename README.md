@@ -2,25 +2,18 @@
  * @Author       : yuanrunwei
  * @Date         : 2020-05-17 16:38:29
  * @LastEditors  : yuanrunwei
- * @LastEditTime : 2020-05-17 17:20:11
+ * @LastEditTime : 2020-05-17 17:25:51
  * @FilePath     : \ambre-miniprogram\README.md
 --> 
 #### 安装依赖
-
 ```
 1.yarn install 
-```
-```
 2.详情内勾选使用npm模块
-```
-```
 3.工具内构建npm
 ```
-
 #### 目录结构
 ```
 ├── components // 组件文件夹
-
 │   ├── painter // canvas生成海报组件
 │   └── titleBar // 标题栏组件
 ├── miniprogram_npm // 需构建后自动生成
