@@ -1,3 +1,10 @@
+<!--
+ * @Author       : yuanrunwei
+ * @Date         : 2020-05-17 16:38:29
+ * @LastEditors  : yuanrunwei
+ * @LastEditTime : 2020-05-17 17:17:32
+ * @FilePath     : \ambre-miniprogram\README.md
+--> 
 #### 安装依赖
 
 ```
@@ -13,30 +20,55 @@
 
 #### 目录结构
 ```
+
 ├── components // 组件文件夹
+
 │   ├── painter // canvas生成海报组件
+
 │   └── titleBar // 标题栏组件
+
 ├── miniprogram_npm // 需构建后自动生成
+
 ├── pages // 页面
+
 ├── static  // 静态资源
+
 │   ├── iconfont // 阿里字体图标库
+
 │   └── image // 图片存放文件夹
+
 ├── utils
+
 │   ├── axios.js // 请求方法封装
+
 │   ├── util.js // 通用方法.js
+
 │   └── util.wxs // 通用方法.wxs
+
 ├── wxss
+
 │   ├── common.wxss // 通用样式
+
 │   ├── layout.wxss // 布局样式
+
 │   └── vant.wxss // VANT样式覆盖
+
 ├── .gitignore
+
 ├── README.md
+
 ├── app.js
+
 ├── app.json
+
 ├── app.wxss
+
 ├── package.json
+
 ├── project.config.json
+
 └── sitemap.json
+
 ```
 
 #### 环境配置
