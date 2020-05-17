@@ -1,0 +1,14 @@
+[Dd]esktop.ini
+$RECYCLE.BIN/
+Thumbs.db
+.Spotlight-V100
+.TemporaryItems
+.DS_Store
+.fseventsd
+.Trashes
+.idea
+node_modules/
+miniprogram_npm/
+yarn.lock
+
+

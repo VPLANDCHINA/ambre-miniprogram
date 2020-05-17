@@ -1,0 +1,53 @@
+/* components/titleBar/titleBar.wxss */
+@import '../../wxss/common.wxss';
+@import '../../static/iconfont/iconfont.wxss';
+.back{
+  margin-left:30rpx;
+  border: 1rpx solid rgb(229,229,229);
+  height:63rpx;
+  margin-top:13rpx;
+  border-radius: 50rpx;
+  line-height:43rpx;
+  z-index:99 !important;
+}
+.transparent{
+  position: fixed;
+  background: rgba(0,0,0,0);
+  z-index:99 !important;
+}
+.search{
+  margin-left:30rpx;
+  border: 1rpx solid rgb(229,229,229);
+  height:63rpx;
+  width:63rpx;
+  text-align: center;
+  margin-top:13rpx;
+  border-radius: 50%;
+  line-height:43rpx;
+  z-index:99 !important;
+}
+.search .iconfont{
+  width:53rpx;
+  height:53rpx;
+  font-size:32rpx !important;
+  border:none !important;
+}
+.iconfont{
+  display: inline-block;
+  text-align: center;
+  margin:10rpx 0;
+  width:85.7rpx;
+  height:43rpx;
+  font-size:32rpx;
+  vertical-align: middle;
+}
+.iconfont:first-child{
+  border-right:1rpx solid rgb(229,229,229);
+}
+.title{
+  position:absolute;
+  width:100%;
+  text-align: center;
+  font-size:32rpx;
+  font-weight: bold;
+}

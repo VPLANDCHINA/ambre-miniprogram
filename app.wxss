@@ -1,0 +1,5 @@
+/**app.wxss**/
+@import './wxss/vant.wxss';
+@import './wxss/layout.wxss';
+@import './static/iconfont/iconfont.wxss';
+@import './wxss/common.wxss';

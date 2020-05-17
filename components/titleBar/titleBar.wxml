@@ -1,0 +1,29 @@
+<!--components/titleBar/titleBar.wxml-->
+<view
+class="{{transparent?'transparent':''}}"
+style="height:{{statusBarHeight + titleBarHeight}}px;">
+<view
+style="width:100%;height:{{statusBarHeight + titleBarHeight}}px;background-color:#{{bgColor}};color:#{{fontColor}};z-index:99;position:fixed">
+  <view
+  class="flex"
+  style="padding-top:{{statusBarHeight}}px;line-height:{{titleBarHeight}}px;">
+    <view
+    class="back"
+    wx:if="{{showBack}}">
+      <text
+      bindtap="handleBack"
+      class="iconfont icon-chevron-left"></text>
+      <text
+      bindtap="handleIndex"
+      class="iconfont icon-home"></text>
+    </view>
+    <view
+    class="search"
+    wx:if="{{showSearch}}">
+      <text class="iconfont icon-search"></text>
+    </view>
+    <view class="title">{{title}}</view>
+    <view></view>
+  </view>
+</view>
+</view>

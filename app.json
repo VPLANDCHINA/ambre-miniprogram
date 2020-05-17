@@ -1,0 +1,42 @@
+{
+  "pages":[
+    "pages/index/index"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle":"black",
+    "navigationStyle": "custom"
+  },
+  "usingComponents": {
+    "painter": "/components/painter/painter",
+    "title-bar": "/components/titleBar/titleBar",
+
+    "van-tab": "/miniprogram_npm/@vant/weapp/tab/index",
+    "van-tabs": "/miniprogram_npm/@vant/weapp/tabs/index",
+    "van-icon": "/miniprogram_npm/@vant/weapp/icon/index",
+    "van-area": "/miniprogram_npm/@vant/weapp/area/index",
+    "van-cell": "/miniprogram_npm/@vant/weapp/cell/index",
+    "van-toast": "/miniprogram_npm/@vant/weapp/toast/index",
+    "van-field": "/miniprogram_npm/@vant/weapp/field/index",
+    "van-steps": "/miniprogram_npm/@vant/weapp/steps/index",
+    "van-radio": "/miniprogram_npm/@vant/weapp/radio/index",
+    "van-popup": "/miniprogram_npm/@vant/weapp/popup/index",
+    "van-switch": "/miniprogram_npm/@vant/weapp/switch/index",
+    "van-search": "/miniprogram_npm/@vant/weapp/search/index",
+    "van-dialog": "/miniprogram_npm/@vant/weapp/dialog/index",
+    "van-tabbar": "/miniprogram_npm/@vant/weapp/tabbar/index",
+    "van-overlay": "/miniprogram_npm/@vant/weapp/overlay/index",
+    "van-stepper": "/miniprogram_npm/@vant/weapp/stepper/index",
+    "van-checkbox": "/miniprogram_npm/@vant/weapp/checkbox/index",
+    "van-cell-group": "/miniprogram_npm/@vant/weapp/cell-group/index",
+    "van-swipe-cell": "/miniprogram_npm/@vant/weapp/swipe-cell/index",
+    "van-count-down": "/miniprogram_npm/@vant/weapp/count-down/index",
+    "van-radio-group": "/miniprogram_npm/@vant/weapp/radio-group/index",
+    "van-tabbar-item": "/miniprogram_npm/@vant/weapp/tabbar-item/index",
+    "van-checkbox-group": "/miniprogram_npm/@vant/weapp/checkbox-group/index"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

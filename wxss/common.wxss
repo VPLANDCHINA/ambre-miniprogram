@@ -1,0 +1,190 @@
+/* 常用样式 */
+.text-center{
+  text-align: center;
+}
+.flex{
+  display:flex;
+  justify-content: space-between;
+}
+.warp{
+  flex-wrap: wrap;
+}
+.vertical-align-center{
+  vertical-align: center;
+}
+.float-right{
+  float:right;
+}
+.flex1{
+  flex: 1
+}
+.flex-align-center{
+  display: flex;
+  align-items: center
+}
+.flex-start{
+  justify-content: flex-start;
+}
+.self-center{
+  align-self: center;
+}
+.text-right{
+  text-align: right;  
+}
+.fixed{
+  position:fixed;
+}
+.auto{
+  margin:0 30rpx;
+}
+.align{
+  vertical-align: middle;
+}
+.nowrap{
+  white-space: nowrap;
+}
+.inline{
+  display: inline-block;
+}
+.w-100{
+  width:100%;
+  display: block;
+}
+.font-bold{
+  font-weight: bold;
+}
+.font-normal{
+  font-weight: normal;
+}
+.font-18{
+  font-size:18rpx;
+}
+.font-20{
+  font-size:20rpx;
+}
+.font-22{
+  font-size:22rpx;
+}
+.font-23{
+  font-size:23rpx;
+}
+.font-24{
+  font-size:24rpx;
+}
+.font-26{
+  font-size:26rpx;
+}
+.font-28{
+  font-size:28rpx;
+}
+.font-30{
+  font-size:30rpx;
+}
+.font-32{
+  font-size:32rpx;
+}
+.font-34{
+  font-size:34rpx;
+}
+.font-36{
+  font-size:36rpx;
+}
+.font-40{
+  font-size:40rpx;
+}
+.font-42{
+  font-size:42rpx;
+}
+.font-44{
+  font-size:44rpx;
+}
+.font-45{
+  font-size:45rpx;
+}
+.font-48{
+  font-size:48rpx;
+}
+.font-50{
+  font-size:50rpx;
+}
+.font-52{
+  font-size:52rpx;
+}
+.font-55{
+  font-size:55rpx;
+}
+.font-60{
+  font-size:60rpx;
+}
+.font-66{
+  font-size:66rpx;
+}
+.font-74{
+  font-size:74rpx;
+}
+.color-primary{
+  color:#FF0909;
+}
+.color-FED95F{
+  color:#FF0909;
+}
+.color-AEAEAE{
+  color:#AEAEAE;
+}
+.color-9E9E9E{
+  color:#9E9E9E;
+}
+.color-919090{
+  color:#919090;
+}
+.color-000000{
+  color:#000000;
+}
+.color-D7D7D7{
+  color:#D7D7D7;
+}
+.color-A1A1A1{
+  color:#A1A1A1;
+}
+.color-DFDFDF{
+  color:#DFDFDF;
+}
+.color-222222{
+  color:#222222;
+}
+.color-8A8A8A{
+  color:#8A8A8A;
+}
+.color-FED95F{
+  color:#FED95F;
+}
+.color-717171{
+  color:#717171;
+}
+.color-BF796B{
+  color:#BF796B
+}
+.color-7C7C7C{
+  color: #7C7C7C 
+}
+.color-3D3D3D{
+  color: #3D3D3D
+}
+.color-F7DFE1{
+  color: #F7DFE1
+}
+.color-FFFFFF{
+  color:#fff;
+}
+.color-BEBDBD{
+  color: #BEBDBD
+}
+.color-A9A9A9{
+  color: #A9A9A9;
+}
+.color-B2B2B2{
+  color: #B2B2B2
+}
+.bg-FFFFFF{
+  background-color:#fff;
+}

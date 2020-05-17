@@ -1,0 +1,5 @@
+<!--index.wxml-->
+<title-bar showBack showSearch></title-bar>
+<view class="auto">
+content
+</view>

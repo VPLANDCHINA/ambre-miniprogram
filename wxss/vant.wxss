@@ -1,0 +1,118 @@
+/* vant-ui */
+page {
+  /* button */
+  /* --button-primary-color:#000 !important;
+  --button-primary-background-color: #000000 !important;
+  --button-border-radius: 0;
+  --button-primary-border-color: #000000 !important;
+  --button-mini-font-size: @font-size-xs; */
+  /* search */
+  /* --search-background-color:#fff; */
+  /* stepper */
+  /* --stepper-background-color:#fff;
+  --stepper-input-width:60rpx; */
+  /* --stepper-input-font-size:20rpx; */
+  /* --stepper-button-disabled-color:#fff; */
+  /* tab */
+  /* --tab-text-color:#B5B5B5;
+  --tabs-bottom-bar-color: #FF0909; */
+  /* checkbox */
+  /* --radio-checked-icon-color:#FF0909;
+  --checkbox-checked-icon-color:#FF0909; */
+  /* swich */
+  /* --switch-on-background-color:#FF0909; */
+  /* dialog */
+  /* --dialog-border-radius:15rpx; */
+  /* tips */
+  /* --info-dot-color: #FF0909;
+  --info-color: #222;
+  --info-background-color:#FF0909; */
+}
+/* search */
+.van-search__content{
+  /* border:1.5px solid #222; */
+  /* box-shadow: 0 1px 2px 0 rgba(148, 148, 148, 0.1);
+  border-radius: 30rpx !important; */
+}
+/* .van-search__action{
+  width:100rpx !important;
+  line-height:0px !important;
+  text-align: center !important;
+} */
+/* .van-search__action .iconfont{
+  font-size:40rpx;
+} */
+.van-sticky-wrap--fixed{
+  /* top: 88rpx!important; */
+}
+/* stepper */
+.van-stepper{
+  /* border:1px solid #E0E1E6; */
+}
+.van-stepper__input{
+  /* font-size:24rpx !important; */
+  /* background-color:#F6F7F8 !important; */
+}
+.van-stepper__minus:before,.van-stepper__plus:before {
+  /* width:7px !important;
+  height:1px !important; */
+}
+.van-stepper__minus:after,.van-stepper__plus:after{
+  /* width:1px !important;
+  height:7px !important; */
+}
+/* tab */
+.van-tab--active {
+  /* font-weight: bold !important; */
+}
+/* radio */
+.van-radio__icon .van-icon{
+  /* font-size:0.6rem !important; */
+  
+}
+.van-radio__icon--checked{
+  /* color:#fff !important;
+  border:none !important; */
+}
+/* checkbox */
+.van-checkbox__icon .van-icon{
+  /* font-size:0.6rem !important; */
+}
+.van-checkbox__icon{
+  /* border:3rpx solid #DCDCDC ; */
+}
+.van-checkbox__icon--disabled{
+  /* background-color:#DCDCDC !important; */
+}
+.cart-suggest{
+  /* background-color:#fff; */
+}
+.cart-suggest-titile{
+  /* padding:50rpx 0;
+  font-size:50rpx; */
+}
+/* area */
+.van-picker__cancel,.van-picker__confirm{
+  /* color:#000 !important; */
+}
+/* dialog */
+.van-dialog__message{
+  /* padding-top:77rpx !important;
+  padding-bottom:45rpx !important; */
+}
+.van-dialog__message-text{
+  /* font-size:34rpx !important;
+  color: #999999 !important; */
+}
+.dialog-index--van-dialog__cancel,.dialog-index--van-dialog__confirm{
+  /* width:100% !important;
+  font-weight: bold !important;
+  font-size:34rpx !important; */
+}
+.dialog-index--van-dialog__confirm{
+  /* color:rgb(94,106,132) !important; */
+}
+/* van-tips */
+.van-info{
+  /* top:-10rpx !important; */
+}
